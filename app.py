@@ -27,7 +27,7 @@ if theme == "Dark Mode":
     )
 
 # Logo and Banner
-st.image("assets/banner.jpg", use_column_width=True)
+st.image("https://images.unsplash.com/photo-1523050854058-8df90110c9f1", use_column_width=True)
 
 st.title("Welcome to **Modgul X**")
 st.subheader("Organized chaos, now in **HD** with dark mode.")
